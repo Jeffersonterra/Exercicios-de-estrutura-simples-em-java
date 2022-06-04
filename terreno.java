@@ -10,7 +10,7 @@ class terreno {
         double x = leitor.nextDouble();
         double y = leitor.nextDouble();
         System.out.println("Digite o valor do terreno: ");
-        System.out.println("Input the value per sqr meter ");
+        System.out.println("Input the value per square meter ");
       
         double valor = leitor.nextDouble();
         double total = valor * x * y;
